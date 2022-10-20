@@ -1,0 +1,45 @@
+.container {
+  padding-top:5px;
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+.refresh {
+  border-radius: 28px;
+  font-family: 'Indie Flower', cursive;
+  color: black;
+  font-size: 20px;
+  background: #69E9F2;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 20px;
+}
+
+.refresh:hover {
+  background: #f27269;
+  color: #ffffff;
+}
+
+body {
+  background-color: #001522;
+}
+
+h1 {
+  margin: 5px;
+  font-family: 'Lemonada', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
+  color: #69e9f2;
+}
+
+p {padding-top:5px;
+  font-size: 2rem;
+  color: #69e9f2;
+  font-family: 'Indie Flower', cursive;
+}
